@@ -1,0 +1,16 @@
+#header {
+	text-align: center;
+}
+
+#me_img {
+	text-align: center;
+}
+
+#external_links {
+	text-align: center;
+}
+
+body {
+	background-color: grey;
+	background-image: url("../images/basquiat_bg.jpg");
+}
