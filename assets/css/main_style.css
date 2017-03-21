@@ -1,16 +1,19 @@
 #header {
 	text-align: center;
-}
 
-#me_img {
-	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 34px;
 }
 
 #external_links {
 	text-align: center;
+
+	font-size: 18px;
 }
 
 body {
 	background-color: grey;
+	/*
 	background-image: url("../images/basquiat_bg.jpg");
+	*/
 }
